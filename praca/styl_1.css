@@ -1,0 +1,59 @@
+body {
+    background: #F6E5DC;
+}
+
+.header {
+    background: #2F180C;
+}
+
+.content {
+    background-color:darksalmon;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    background-color: blanchedalmond;
+}
+
+.info {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.infotest {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer {
+    height: 60px;
+    background-color: brown;
+}
+
+.footer p{
+    margin: 0;
+}
+
+button {
+    background-color: maroon;
+    color:wheat;
+    display: flex;
+    justify-content: center;
+}
+
+.header h1 {
+    color: khaki;;
+}
+
+.infotest li {
+    font-size: 20px;
+}
+
+img {
+    width: 60%;
+}
